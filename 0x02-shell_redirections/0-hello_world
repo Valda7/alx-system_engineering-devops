@@ -1,2 +1,3 @@
 #!/bin/bash
-cat Hello, World | lpr
+cat vi Hello, World | lpr 
+
